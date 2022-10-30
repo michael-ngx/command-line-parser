@@ -1,0 +1,5 @@
+maxShapes 10
+create s1 rectangle 100 1 2 2.2
+create s1 circle 100 1 2 2
+move s1 360
+rotate s1 361
